@@ -62,3 +62,5 @@ Links can be added to slides by adding the markup `.link`.
 Lines starting with a colon denote presenter notes.
 
 	: Some presenter comment
+
+: A comment here
